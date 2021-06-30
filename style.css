@@ -34,6 +34,11 @@ h3 span {
   font-weight: normal;
 }
 
+.stats p {
+  font-size: 0.9rem;
+  letter-spacing: 0.5px;
+}
+
 /* Layout */
 
 body {
